@@ -4,7 +4,7 @@
 
 ## 対応バージョン
 
-サポートされているバージョン --> ./SUPPORTED_VERSIONS.md
+サポートされているバージョン --> SUPPORTED_VERSIONS.md
 
 ## セキュリティイシューの報告
 
@@ -30,15 +30,3 @@
 
 報告は、日本語が扱える場合は日本語でお願いします。
 機械翻訳をしてしまうと、意味が変わってしまうので原文のままで報告してください。
-
----
-
-## Powered by GitLab Service desk
-<img align="left" src="https://gitlab.com/uploads/-/system/project/avatar/28146194/2021-01-07__27__-_%E3%82%B3%E3%83%94%E3%83%BC.png?width=64" />
-
-```
-Reporting Security Issues | Project ID: 28146194
-https://gitlab.com/CommentGeneratorCollection/SECURITY
-```
-
----
