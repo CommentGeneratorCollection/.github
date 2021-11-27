@@ -7,9 +7,9 @@ If you believe you have found a security vulnerability in the repository, please
 See Supported Versions --> SUPPORTED_VERSIONS.md
 
 ## Reporting Security Issues
-**Please do not report security vulnerabilities through public GitHub issues.**
+**Do not report security vulnerabilities in public (where anyone can see them).**
 
-Instead, please report them to "Reporting Security Issues Powered by GitLab Service desk" at `contact-project+commentgeneratorcollection-security-issues✨incoming.gitlab.com` ( ✨ → ＠ )
+Instead, please report them at `contact-project+commentgeneratorcollection-security-issues✨incoming.gitlab.com` ( ✨ → ＠ )
 
 Please include the requested information listed below (as much as you can provide) to help us better understand the nature and scope of the possible issue:
 
