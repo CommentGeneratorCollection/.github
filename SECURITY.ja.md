@@ -8,9 +8,9 @@
 
 ## セキュリティイシューの報告
 
-**セキュリティ上の脆弱性は、GitHub の公開された イシューで報告しないでください。**
+**セキュリティ上の脆弱性は、パブリック上(誰でも見られる状態)で報告しないでください。**
 
-代わりに、`contact-project+commentgeneratorcollection-security-issues✨incoming.gitlab.com`の "Reporting Security Issues Powered by GitLab Service desk"に報告してください（✨ → ＠ ）。
+代わりに、`contact-project+commentgeneratorcollection-security-issues✨incoming.gitlab.com`に報告してください（✨ → ＠ ）。
 
 想定されるイシューの性質と範囲をよりよく理解するために、以下の要求された情報を含めてください（提供できる範囲で）。
 
