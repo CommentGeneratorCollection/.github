@@ -4,7 +4,7 @@ If you believe you have found a security vulnerability in the repository, please
 
 ## Supported Versions
 
-See Supported Versions --> ./SUPPORTED_VERSIONS.md
+See Supported Versions --> SUPPORTED_VERSIONS.md
 
 ## Reporting Security Issues
 **Please do not report security vulnerabilities through public GitHub issues.**
@@ -27,15 +27,3 @@ This information will help us triage your report more quickly.
 ## Preferred Languages
 Reports should be in Japanese if you can handle Japanese.
 Machine translation will change the meaning, so please report in the original.
-
----
-
-## Powered by GitLab Service desk
-<img align="left" src="https://gitlab.com/uploads/-/system/project/avatar/28146194/2021-01-07__27__-_%E3%82%B3%E3%83%94%E3%83%BC.png?width=64" />
-
-```
-Reporting Security Issues | Project ID: 28146194
-https://gitlab.com/CommentGeneratorCollection/SECURITY
-```
-
----
