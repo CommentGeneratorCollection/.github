@@ -15,15 +15,10 @@ Basic Pull Request steps:
 
 0. Fork and clone the repository
 1. Configure and install the dependencies
-
-2. Global uninstall yarn pnpm: `npm uninstall -g yarn pnpm`
-3. Global install corepack: `npm install -g corepack`
-
-   See also --> https://github.com/nodejs/corepack
-4. Create a new branch: `git checkout -b my-branch-name`
-5. Commit your changes: `git commit -am "Add awesome feature"`
-6. Push to the branch: `git push origin my-branch-name`
-7. Submit a pull request to this repository
+2. Create a new branch: `git checkout -b my-branch-name`
+3. Commit your changes: `git commit -am "Add awesome feature"`
+4. Push to the branch: `git push origin my-branch-name`
+5. Submit a pull request to this repository
 
 Here are a few things you can do that will increase the likelihood of your pull request being accepted:
 
